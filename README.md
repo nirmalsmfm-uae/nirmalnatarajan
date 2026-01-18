@@ -34,7 +34,8 @@ Known for **accuracy, analytical skills, and efficient operations management**.
 ---
 
 ## 📊 GitHub Stats
-![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalnatarajan&show_icons=true&theme=radical)
+![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalsmfm-uae&show_icons=true&theme=radical)
+
 
 ---
 
