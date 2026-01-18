@@ -1,66 +1,89 @@
 # Nirmal Natarajan 👋
 **Security Manager | Accountant | PRO**  
 📍 Dubai, UAE | 18+ Years Experience  
-📧 nirmalnatarajan39@gmail.com | 📱 050 130 8369  
+📧 [Email](mailto:nirmalnatarajan39@gmail.com) | 📱 050 130 8369  
+💼 [LinkedIn](https://www.linkedin.com/in/nirmalnatarajan)
 
 ---
 
 ## 🌟 Professional Summary
-Accomplished professional with **18+ years of UAE experience** in **Security & Facility Management, Accounting, and Public Relations (PRO)**. Proven expertise in:  
+Accomplished professional with **18+ years of UAE experience** in **Security & Facility Management, Accounting, and PRO**.  
+Expertise includes:  
 
-- Leading **security operations**, ensuring **SIRA compliance** and risk management  
-- Managing **accounts payable/receivable, payroll, VAT, bank reconciliations, and financial reporting**  
-- Overseeing **government liaison, visa processing, licensing, and labor compliance**  
-- Coordinating **HR functions**, recruitment, employee relations, and performance management  
-- Handling **fleet management, procurement, insurance, and operational budgets**  
+- Security operations & SIRA compliance  
+- Accounts payable/receivable, payroll, VAT, and financial reporting  
+- Government liaison, visa processing, licensing, and labor compliance  
+- HR functions, recruitment, employee relations, and performance management  
+- Fleet management, procurement, insurance, and operational budgets  
 
-Known for **accuracy, analytical skills, and efficiency in managing complex operations**.  
+Known for **accuracy, analytical skills, and efficient operations management**.
+
+---
+
+## 🏆 Certifications & Skills
+![ISO 9001](https://img.shields.io/badge/ISO-9001-blue?style=flat-square)
+![ISO 14001](https://img.shields.io/badge/ISO-14001-blue?style=flat-square)
+![ISO 45001](https://img.shields.io/badge/ISO-45001-blue?style=flat-square)
+![SIRA](https://img.shields.io/badge/SIRA-Certified-blue?style=flat-square)
+![SAP FICO](https://img.shields.io/badge/SAP-FICO-green?style=flat-square)
+![TALLY](https://img.shields.io/badge/TALLY.ERP-9-orange?style=flat-square)
+![VAT Filing](https://img.shields.io/badge/VAT-Filing-red?style=flat-square)
+![Payroll](https://img.shields.io/badge/Payroll-Management-yellow?style=flat-square)
+![ERP](https://img.shields.io/badge/ERP-Software-lightgrey?style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalnatarajan&show_icons=true&theme=radical)
 
 ---
 
 ## 💼 Work Experience
 
-### **Flex Facility Management LLC, Dubai, UAE**  
-*Security Manager, Accountant, HR Coordinator & PRO (June 2013 – Present, 12+ years)*
+<details>
+  <summary>Security Manager, Accountant, HR Coordinator & PRO - Flex Facility Management LLC (June 2013 – Present)</summary>
 
 **Security Management**
-- Lead and supervise daily security operations, guard deployment, and patrol planning  
+- Lead daily security operations, guard deployment, and patrol planning  
 - Ensure compliance with **SIRA, Civil Defense, HSE regulations**  
 - Conduct site inspections and risk assessments  
 
-**Accounts & Finance**
-- Manage **accounts payable/receivable, invoicing, payments follow-up, and payroll**  
-- Prepare and submit **VAT quarterly**, coordinate payroll for 1300+ employees  
-- Monitor and record petty cash for office and camp expenses  
-- Perform **bank reconciliation** and post adjusting journal entries  
-- Record assets, liabilities, revenues, and expenses; prepare monthly financial statements  
-- Process vendor invoices, issue LPOs, allocate expenses to cost centers, and reconcile vendor accounts  
-- Maintain relationships with suppliers, negotiate credit terms, discounts, and ensure timely payments  
+**Finance & Accounting**
+- Manage **accounts payable/receivable, invoicing, payments follow-up, payroll**  
+- Prepare **VAT quarterly** and coordinate payroll for 1300+ employees  
+- Bank reconciliation, petty cash management, journal entries, aged receivables  
+- Vendor invoice processing, LPO issuing, cost center allocation, and reconciliation  
+- Maintain supplier/client relationships, negotiate credit terms and discounts  
 
 **HR & PRO**
-- Assist in recruitment, payroll, leave & final settlement processing  
-- Process employee visa applications & renewals via **MOHRE & GDRFA portals**  
-- Represent the company in **government bodies, courts, police stations, embassies, and ministries**  
-- Ensure proper documentation and renewal of company licenses, rental agreements, and compliance  
+- Recruitment assistance, payroll, leave & final settlements  
+- Employee visa applications & renewals on **MOHRE & GDRFA portals**  
+- Represent company in **government bodies, courts, police, embassies, ministries**  
+- License and rental agreement renewals and compliance documentation  
 
 **Operations & Administration**
-- Manage fleet reports, insurance documentation, procurement of vehicles, office supplies, uniforms, and camp materials  
-- Supervise security staff, including SIRA card applications and web portal processing  
+- Fleet management, insurance documentation, procurement of vehicles, uniforms, office & camp materials  
+- Supervise security staff, including SIRA card processing  
 
----
+</details>
 
-### **General Accountant & Administrative Assistant – Al Roqa Fashion LLC, Dubai, UAE**  
-*July 2007 – June 2013 (6 years)*  
+<details>
+  <summary>General Accountant & Administrative Assistant - Al Roqa Fashion LLC (July 2007 – June 2013)</summary>
+
 - Maintained cash and general ledger books for four branches  
 - Prepared stock registers, trading, P&L accounts, and balance sheets  
-- Supervised payroll, administrative activities, and vendor management  
+- Supervised payroll and day-to-day administrative activities  
+- Managed vendor relationships and timely payments  
 
----
+</details>
 
-### **Accountant – Choice Home Appliances, Kerala, India**  
-*June 2006 – June 2007*  
+<details>
+  <summary>Accountant - Choice Home Appliances, Kerala, India (June 2006 – June 2007)</summary>
+
 - Prepared trading and profit & loss accounts, balance sheets, and stock registers  
-- Managed cash and bank transactions  
+- Handled cash and bank transactions  
+
+</details>
 
 ---
 
@@ -68,20 +91,21 @@ Known for **accuracy, analytical skills, and efficiency in managing complex oper
 - **MBA in HR (Pursued)**  
 - **B.Com**, Kerala University  
 - **SIRA Certified Security Manager**  
-- **ISO Certified Lead Auditor**: ISO 9001:2015 (QMS), ISO 14001:2015 (EMS), ISO 45001:2018 (OHSMS) – TUV SW Academy, Dubai  
+- **ISO Lead Auditor**: ISO 9001, ISO 14001, ISO 45001 – TUV SW Academy, Dubai  
 - **SAP FICO** – Finance & Controlling End User & Consultant Level  
 - **DCFM, DCFA & DPA** – Computerized Financial Management & Accounting  
 - **TALLY.ERP 9**  
 
 ---
 
-## 🏆 Skills
+## 🛠 Skills
+
 | Finance & Accounts | HR & Payroll | Security & Operations | Software & Portals |
 |------------------|------------|--------------------|-----------------|
-| Accounts Payable/Receivable | Recruitment & Employee Relations | Security Operations & Patrols | SAP FICO, TALLY.ERP 9, MS Office |
-| Invoicing & Payment Follow-up | Payroll / WPS | Risk Assessment & Compliance | E-Financial ERP, UAE Government Portals |
-| Bank Reconciliation & Cash Flow | Compensation & Benefits | HSE, Civil Defense, SIRA | MOHRE, TAS-HEEL, GPSSA, RTA, DED, DM, DEWA, Etisalat |
-| Budgeting & VAT Filing | Performance Management | Fleet Management & Insurance | Emirates ID ICP, MOFA, DHA, MOHAP |
+| Accounts Payable/Receivable | Recruitment & Employee Relations | Security Operations & Patrols | SAP FICO, TALLY.ERP 9 |
+| VAT & Budgeting | Payroll / WPS | Risk Assessment & Compliance | MS Office, E-Financial ERP |
+| Bank Reconciliation | Performance Management | Fleet & Insurance | MOHRE, TAS-HEEL, GPSSA, RTA, DED, DM, DEWA, Etisalat |
+| Vendor & Contract Management | Compensation & Benefits | HSE, Civil Defense, SIRA | Emirates ID ICP, MOFA, DHA, MOHAP |
 
 ---
 
@@ -91,7 +115,7 @@ Known for **accuracy, analytical skills, and efficiency in managing complex oper
 
 ---
 
-## 🛂 Visa & Personal Information
+## 🛂 Visa & Personal Info
 - **Visa Status:** Employment Visa  
 - **Notice Period:** 15–30 days  
 - **Nationality:** Indian  
@@ -102,6 +126,4 @@ Known for **accuracy, analytical skills, and efficiency in managing complex oper
 
 ## 📌 References
 Available upon request  
-
----
 
