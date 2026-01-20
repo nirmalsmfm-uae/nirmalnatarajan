@@ -1,5 +1,5 @@
 # Nirmal Natarajan 👋
-**Security Manager | Facility Coordinator | Accountant | PRO**  
+**Security & Facility Manager | ISO Lead Auditor | Finance, HR & Operations | Public Relations Officer (PRO) **  
 📍 Dubai, UAE | 18+ Years Experience  
 📧 [Email](mailto:nirmalsmfm@gmail.com) | 📱 050 130 8369  
 💼 [LinkedIn](https://www.linkedin.com/in/nirmal-natarajan-ab398863)
