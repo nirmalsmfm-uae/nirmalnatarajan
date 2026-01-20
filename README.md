@@ -2,7 +2,7 @@
 **Security Manager | Accountant | PRO**  
 📍 Dubai, UAE | 18+ Years Experience  
 📧 [Email](mailto:nirmalnatarajan39@gmail.com) | 📱 050 130 8369  
-💼 [LinkedIn](https://www.linkedin.com/in/nirmalnatarajan)
+💼 [LinkedIn](https://www.linkedin.com/in/nirmal-natarajan-ab398863)
 
 ---
 
